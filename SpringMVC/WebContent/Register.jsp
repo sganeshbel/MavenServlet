@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>Spring project</h1>
 <h1>Registraion</h1>
 <form action="register.do" method="post">
 <pre>
@@ -20,8 +21,6 @@ Mobile:<input type="text" name="mobile">
 <input type="submit" value="register">
 
 </pre>
-
-
 
 </form>
 </body>
